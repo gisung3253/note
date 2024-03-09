@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "def391259456dca6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e093e6755df6d1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50b60ef0b63fa681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flius_pj_1/GitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eea6cdb32721e84b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c272b211d76d36c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fac0a283265a08c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd444570dda7e627",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b8a46432a6d8a95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5c7473af7c4c9c22",
+    "type": "split",
+    "children": [
+      {
+        "id": "81093e9dd42d7435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e0e1b1a5c86b712",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flius_pj_1/GitHub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3d17d00d0f957b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Flius_pj_1/GitHub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f914070c964ebc2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9548b34e8d0ac364",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Flius_pj_1/GitHub.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "50b60ef0b63fa681",
+  "lastOpenFiles": [
+    "image_file/Pasted image 20240309183430.png",
+    "image_file/Pasted image 20240309183053.png",
+    "image_file/Pasted image 20240309183030.png",
+    "image_file/Pasted image 20240309182421.png",
+    "image_file/Pasted image 20240309182342.png",
+    "image_file/Pasted image 20240309182215.png",
+    "image_file/Pasted image 20240309181647.png",
+    "image_file/Pasted image 20240309181432.png",
+    "image_file/Pasted image 20240309181212.png",
+    "image_file/Pasted image 20240309181027.png",
+    "image_file/Pasted image 20240309180701.png",
+    "Flius_pj_1/RoadMap.md",
+    "Flius_pj_1/Architecture.md",
+    "Flius_pj_1/Flius_pj_1.md",
+    "Flius_pj_1/GitHub.md",
+    "go.md",
+    "html.md",
+    "Flius_pj_1/Obsidion.md",
+    "Flius_pj_1",
+    "image_file",
+    "자바.md",
+    "2024-03-09.md"
+  ]
+}
