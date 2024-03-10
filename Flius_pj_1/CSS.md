@@ -13,3 +13,4 @@
 <link href="style.css" rel ="stylesheet" type="text/css" />
 이렇게 연동하고 중간값은 파일명이다
 
+집에서 추가한 문구입니다.
