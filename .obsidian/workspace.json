@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "def391259456dca6",
+    "id": "837a83e40782a750",
     "type": "split",
     "children": [
       {
-        "id": "4e093e6755df6d1b",
+        "id": "a4bea0205f6ef9b9",
         "type": "tabs",
         "children": [
           {
-            "id": "50b60ef0b63fa681",
+            "id": "da6b103168ca7403",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flius_pj_1/RoadMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "642a3e0ba60b1548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flius_pj_1/RoadMap.md",
+                "file": "Flius_pj_1/HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "eea6cdb32721e84b",
+    "id": "03d0fbf351026a3c",
     "type": "split",
     "children": [
       {
-        "id": "0c272b211d76d36c",
+        "id": "9e0edd536ee18cd1",
         "type": "tabs",
         "children": [
           {
-            "id": "fac0a283265a08c4",
+            "id": "57a898206055ba48",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "fd444570dda7e627",
+            "id": "6856368e65d2cc79",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "1b8a46432a6d8a95",
+            "id": "c61298504100905b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "5c7473af7c4c9c22",
+    "id": "735718e3201a59f6",
     "type": "split",
     "children": [
       {
-        "id": "81093e9dd42d7435",
+        "id": "ea7385a3ad3808e7",
         "type": "tabs",
         "children": [
           {
-            "id": "6e0e1b1a5c86b712",
+            "id": "13b3875a8b4bef8b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flius_pj_1/RoadMap.md",
+                "file": "Flius_pj_1/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "b3d17d00d0f957b0",
+            "id": "6b731afa30142184",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flius_pj_1/RoadMap.md",
+                "file": "Flius_pj_1/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f914070c964ebc2a",
+            "id": "e911a59a4c19f51f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "9548b34e8d0ac364",
+            "id": "b62c781e8a85fc62",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flius_pj_1/RoadMap.md"
+                "file": "Flius_pj_1/HTML.md"
               }
             }
           }
@@ -159,33 +146,8 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fac0a283265a08c4",
+  "active": "da6b103168ca7403",
   "lastOpenFiles": [
-    "new_file",
-    "Flius_pj_1/GitHub.md",
-    "Flius_pj_1/Flius_pj_1.md",
-    "go.md",
-    "파일.md",
-    "html.md",
-    "저장.md",
-    "ㅇㄴㅁ.md",
-    "만들었다.md",
-    "Flius_pj_1/RoadMap.md",
-    "Flius_pj_1/Architecture.md",
-    "Flius_pj_1/Obsidion.md",
-    "image_file/Pasted image 20240309183430.png",
-    "image_file/Pasted image 20240309183053.png",
-    "image_file/Pasted image 20240309183030.png",
-    "image_file/Pasted image 20240309182421.png",
-    "image_file/Pasted image 20240309182342.png",
-    "image_file/Pasted image 20240309182215.png",
-    "image_file/Pasted image 20240309181647.png",
-    "image_file/Pasted image 20240309181432.png",
-    "image_file/Pasted image 20240309181212.png",
-    "image_file/Pasted image 20240309181027.png",
-    "Flius_pj_1",
-    "image_file",
-    "자바.md",
-    "2024-03-09.md"
+    "Flius_pj_1/Architecture.md"
   ]
 }
