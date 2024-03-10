@@ -101,3 +101,5 @@ code 버튼 누르기
 - git add .
 - git commit -m "~"
 - git pull origin master (새로운 코드를 받아온다)
+
+![[Pasted image 20240310230858.png]]
