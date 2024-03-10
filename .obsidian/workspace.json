@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flius_pj_1/GitHub.md",
+                "file": "Flius_pj_1/HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "619e5a42dc93385c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flius_pj_1/Flius_pj_1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flius_pj_1/GitHub.md",
+                "file": "Flius_pj_1/Flius_pj_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flius_pj_1/GitHub.md",
+                "file": "Flius_pj_1/Flius_pj_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flius_pj_1/GitHub.md"
+                "file": "Flius_pj_1/Flius_pj_1.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,25 +160,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "50b60ef0b63fa681",
+  "active": "619e5a42dc93385c",
   "lastOpenFiles": [
-    "Flius_pj_1/Flius_pj_1.md",
-    "Flius_pj_1/Architecture.md",
     "Flius_pj_1/GitHub.md",
+    "Flius_pj_1/HTML.md",
     "Flius_pj_1/Obsidion.md",
     "Flius_pj_1/RoadMap.md",
-    "image_file/Pasted image 20240309183430.png",
-    "image_file/Pasted image 20240309183053.png",
-    "image_file/Pasted image 20240309183030.png",
-    "image_file/Pasted image 20240309182421.png",
-    "image_file/Pasted image 20240309182342.png",
-    "image_file/Pasted image 20240309182215.png",
-    "image_file/Pasted image 20240309181647.png",
-    "image_file/Pasted image 20240309181432.png",
-    "image_file/Pasted image 20240309181212.png",
-    "image_file/Pasted image 20240309181027.png",
+    "Flius_pj_1/RoadMap Arr.md",
+    "Flius_pj_1/Architecture.md",
+    "Flius_pj_1/CSS.md",
+    "Flius_pj_1/Flius_pj_1.md",
+    "image_file/Pasted image 20240310162000.png",
+    "image_file/Pasted image 20240310131451.png",
+    "image_file/Pasted image 20240310131443.png",
+    "image_file/Pasted image 20240310131249.png",
+    "image_file/Pasted image 20240310131238.png",
+    "image_file/Pasted image 20240310130407.png",
+    "image_file/Pasted image 20240310130312.png",
+    "image_file/Pasted image 20240310130114.png",
+    "image_file/Pasted image 20240310130002.png",
+    "image_file/Pasted image 20240310125422.png",
     "go.md",
-    "html.md",
     "Flius_pj_1",
     "image_file",
     "자바.md",

@@ -1,5 +1,5 @@
-	ID : gisung3253@naver.com
-	PASSWORD : Park3253!
+	ID : gisung3253@
+	PASSWORD : P*3253*
 
 	![[Pasted image 20240309163000.png]]
 	git과 github는 다른 개념이다.
