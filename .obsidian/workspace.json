@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flius_pj_1/GitHub.md",
+                "file": "Flius_pj_1/RoadMap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "642a3e0ba60b1548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flius_pj_1/RoadMap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flius_pj_1/GitHub.md",
+                "file": "Flius_pj_1/RoadMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flius_pj_1/GitHub.md",
+                "file": "Flius_pj_1/RoadMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flius_pj_1/GitHub.md"
+                "file": "Flius_pj_1/RoadMap.md"
               }
             }
           }
@@ -146,13 +159,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "50b60ef0b63fa681",
+  "active": "fac0a283265a08c4",
   "lastOpenFiles": [
-    "Flius_pj_1/Flius_pj_1.md",
-    "Flius_pj_1/Architecture.md",
+    "new_file",
     "Flius_pj_1/GitHub.md",
-    "Flius_pj_1/Obsidion.md",
+    "Flius_pj_1/Flius_pj_1.md",
+    "go.md",
+    "파일.md",
+    "html.md",
+    "저장.md",
+    "ㅇㄴㅁ.md",
+    "만들었다.md",
     "Flius_pj_1/RoadMap.md",
+    "Flius_pj_1/Architecture.md",
+    "Flius_pj_1/Obsidion.md",
     "image_file/Pasted image 20240309183430.png",
     "image_file/Pasted image 20240309183053.png",
     "image_file/Pasted image 20240309183030.png",
@@ -163,8 +183,6 @@
     "image_file/Pasted image 20240309181432.png",
     "image_file/Pasted image 20240309181212.png",
     "image_file/Pasted image 20240309181027.png",
-    "go.md",
-    "html.md",
     "Flius_pj_1",
     "image_file",
     "자바.md",
