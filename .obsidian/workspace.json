@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flius_pj_1/CSS.md",
+                "file": "Flius_pj_1/RoadMap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bea8578520f9ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flius_pj_1/RoadMap.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flius_pj_1/CSS.md",
+                "file": "Flius_pj_1/RoadMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flius_pj_1/CSS.md",
+                "file": "Flius_pj_1/RoadMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flius_pj_1/CSS.md"
+                "file": "Flius_pj_1/RoadMap.md"
               }
             }
           }
@@ -174,17 +186,23 @@
   },
   "active": "5542da14a3bcff04",
   "lastOpenFiles": [
+    "Flius_pj_1/RoadMap Arr.md",
+    "APIs.md",
+    "Flius_pj_1/RoadMap.md",
+    "Flius_pj_1/Flius_pj_1.md",
+    "Flius_pj_1/CSS.md",
+    "Flius_pj_1/Computer Network.md",
+    "Flius_pj_1/Architecture.md",
+    "2024-03-13.md",
+    "Flius_pj_1/Obsidion.md",
+    "Flius_pj_1/GitHub.md",
+    "Flius_pj_1/HTML.md",
+    "Flius_pj_1/OS.md",
+    "JavaScript.md",
+    "데니안.md",
     "image_file/Pasted image 20240310230858.png",
     "image_file/Pasted image 20240310230856.png",
-    "Flius_pj_1/GitHub.md",
     "플러스된 파일.md",
-    "Flius_pj_1/CSS.md",
-    "Flius_pj_1/Architecture.md",
-    "Flius_pj_1/Flius_pj_1.md",
-    "Flius_pj_1/HTML.md",
-    "Flius_pj_1/Obsidion.md",
-    "Flius_pj_1/RoadMap.md",
-    "Flius_pj_1/RoadMap Arr.md",
     "image_file/Pasted image 20240310162000.png",
     "image_file/Pasted image 20240310131451.png",
     "image_file/Pasted image 20240310131443.png",
@@ -193,7 +211,6 @@
     "image_file/Pasted image 20240310130407.png",
     "image_file/Pasted image 20240310130312.png",
     "image_file/Pasted image 20240310130114.png",
-    "image_file/Pasted image 20240310130002.png",
     "go.md",
     "Flius_pj_1",
     "image_file",
