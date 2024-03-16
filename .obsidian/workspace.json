@@ -1,31 +1,43 @@
 {
   "main": {
-    "id": "def391259456dca6",
+    "id": "ef5affc109ca658e",
     "type": "split",
     "children": [
       {
-        "id": "4e093e6755df6d1b",
+        "id": "b9170abb73520f14",
         "type": "tabs",
         "children": [
           {
-            "id": "50b60ef0b63fa681",
+            "id": "444989cacfb3f61c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flius_pj_1/HTML.md",
+                "file": "Flius_pj_1/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "619e5a42dc93385c",
+            "id": "3d003a65f69f91c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flius_pj_1/RoadMap Arr.md",
+                "file": "3-2/Computer Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63cc7aa7c70db38d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flius_pj_1/GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,15 +50,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eea6cdb32721e84b",
+    "id": "5feda46ae76694cf",
     "type": "split",
     "children": [
       {
-        "id": "0c272b211d76d36c",
+        "id": "d4799bd2b2d666aa",
         "type": "tabs",
         "children": [
           {
-            "id": "fac0a283265a08c4",
+            "id": "16ee04031c99435a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +68,7 @@
             }
           },
           {
-            "id": "fd444570dda7e627",
+            "id": "650ec6d576cf48f9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +83,7 @@
             }
           },
           {
-            "id": "1b8a46432a6d8a95",
+            "id": "b0a54be8b997aef2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +94,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "5c7473af7c4c9c22",
+    "id": "769502fababb8a33",
     "type": "split",
     "children": [
       {
-        "id": "81093e9dd42d7435",
+        "id": "b1219062a8824b44",
         "type": "tabs",
         "children": [
           {
-            "id": "6e0e1b1a5c86b712",
+            "id": "ef921024d8079fd4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flius_pj_1/RoadMap Arr.md",
+                "file": "3-2/Computer Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +122,19 @@
             }
           },
           {
-            "id": "b3d17d00d0f957b0",
+            "id": "5fa948a99f9666e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flius_pj_1/RoadMap Arr.md",
+                "file": "3-2/Computer Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f914070c964ebc2a",
+            "id": "b6b59d1a15169919",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,17 +145,16 @@
             }
           },
           {
-            "id": "9548b34e8d0ac364",
+            "id": "d16442fe52b05ecd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flius_pj_1/RoadMap Arr.md"
+                "file": "3-2/Computer Network.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,30 +171,32 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "619e5a42dc93385c",
+  "active": "3d003a65f69f91c6",
   "lastOpenFiles": [
-    "Flius_pj_1/Flius_pj_1.md",
-    "Flius_pj_1/GitHub.md",
+    "image_file/Pasted image 20240316214648.png",
+    "image_file/Pasted image 20240316214641.png",
+    "image_file/Pasted image 20240316213945.png",
+    "image_file/Pasted image 20240316213536.png",
+    "image_file/Pasted image 20240316213522.png",
+    "image_file/Pasted image 20240316213259.png",
+    "image_file/Pasted image 20240316213055.png",
+    "image_file/Pasted image 20240316213044.png",
+    "image_file/Pasted image 20240316213039.png",
+    "image_file/Pasted image 20240316211733.png",
+    "image_file/Pasted image 20240316200103.png",
+    "3-2/Database.md",
     "Flius_pj_1/HTML.md",
+    "Flius_pj_1/JavaScript.md",
     "Flius_pj_1/Obsidion.md",
-    "Flius_pj_1/RoadMap.md",
-    "Flius_pj_1/RoadMap Arr.md",
-    "Flius_pj_1/Architecture.md",
-    "Flius_pj_1/CSS.md",
-    "image_file/Pasted image 20240310162000.png",
-    "image_file/Pasted image 20240310131451.png",
-    "image_file/Pasted image 20240310131443.png",
-    "image_file/Pasted image 20240310131249.png",
-    "image_file/Pasted image 20240310131238.png",
-    "image_file/Pasted image 20240310130407.png",
-    "image_file/Pasted image 20240310130312.png",
-    "image_file/Pasted image 20240310130114.png",
-    "image_file/Pasted image 20240310130002.png",
-    "image_file/Pasted image 20240310125422.png",
+    "3-2/Computer Network.md",
+    "Flius_pj_1/GitHub.md",
+    "3-2/Operating system.md",
+    "3-2/Database",
+    "3-2",
     "go.md",
-    "Flius_pj_1",
-    "image_file",
-    "자바.md",
-    "2024-03-09.md"
+    "APIs.md",
+    "Flius_pj_1/Flius_pj_1.md",
+    "Flius_pj_1/CSS.md",
+    "Flius_pj_1/Architecture.md"
   ]
 }

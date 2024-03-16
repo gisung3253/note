@@ -9,7 +9,7 @@
 	- [ ] 레이아웃 구성 - Floats, Positioning, Display, Box Model, CSS Grid
 	- [ ] 반응형 디자인과 미디어 쿼리 
 
-- JavaScript
+- [[JavaScript]]
 	- [ ] 문법과 기본 구조
 	- [ ] DOM 조작
 	- [ ] Fetch API / Ajax (XHR)
@@ -21,3 +21,15 @@
 
 - 패키지 관리자
 	- [ ] npm
+
+
+#### Back-End
+- [[APIs]]
+	- [x] 기본 지식
+	- [ ] 형태와 유효성 검사
+	- [ ] 규약 및 최선의 관례
+
+- [[CSS]]
+	- [ ] 기본 지식
+	- [ ] 레이아웃 구성 - Floats, Positioning, Display, Box Model, CSS Grid
+	- [ ] 반응형 디자인과 미디어 쿼리 
