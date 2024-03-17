@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-2/Computer Network.md",
+                "file": "3-2/Operating system.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-2/Computer Network.md",
+                "file": "3-2/Operating system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-2/Computer Network.md",
+                "file": "3-2/Operating system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-2/Computer Network.md"
+                "file": "3-2/Operating system.md"
               }
             }
           }
@@ -173,30 +173,31 @@
   },
   "active": "3d003a65f69f91c6",
   "lastOpenFiles": [
-    "image_file/Pasted image 20240316214648.png",
-    "image_file/Pasted image 20240316214641.png",
-    "image_file/Pasted image 20240316213945.png",
-    "image_file/Pasted image 20240316213536.png",
-    "image_file/Pasted image 20240316213522.png",
-    "image_file/Pasted image 20240316213259.png",
-    "image_file/Pasted image 20240316213055.png",
-    "image_file/Pasted image 20240316213044.png",
-    "image_file/Pasted image 20240316213039.png",
-    "image_file/Pasted image 20240316211733.png",
-    "image_file/Pasted image 20240316200103.png",
+    "image_file/Pasted image 20240317193527.png",
+    "image_file/Pasted image 20240317193511.png",
+    "image_file/Pasted image 20240317193004.png",
+    "image_file/Pasted image 20240317192942.png",
+    "image_file/Pasted image 20240317192700.png",
+    "image_file/Pasted image 20240317192543.png",
+    "image_file/Pasted image 20240317191841.png",
+    "image_file/Pasted image 20240317191645.png",
+    "image_file/Pasted image 20240317190634.png",
+    "image_file/Pasted image 20240317190211.png",
+    "image_file/Pasted image 20240317185722.png",
     "3-2/Database.md",
-    "Flius_pj_1/HTML.md",
-    "Flius_pj_1/JavaScript.md",
-    "Flius_pj_1/Obsidion.md",
     "3-2/Computer Network.md",
-    "Flius_pj_1/GitHub.md",
     "3-2/Operating system.md",
+    "Flius_pj_1/HTML.md",
+    "Flius_pj_1/Architecture.md",
+    "Flius_pj_1/JavaScript.md",
+    "2024-03-13.md",
+    "Flius_pj_1/Obsidion.md",
+    "Flius_pj_1/GitHub.md",
     "3-2/Database",
     "3-2",
     "go.md",
     "APIs.md",
     "Flius_pj_1/Flius_pj_1.md",
-    "Flius_pj_1/CSS.md",
-    "Flius_pj_1/Architecture.md"
+    "Flius_pj_1/CSS.md"
   ]
 }
