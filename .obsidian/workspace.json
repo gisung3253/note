@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-2/Computer Network.md",
+                "file": "Flius_pj_1/RoadMap.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-2/Computer Network.md",
+                "file": "Flius_pj_1/RoadMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-2/Computer Network.md",
+                "file": "Flius_pj_1/RoadMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-2/Computer Network.md"
+                "file": "Flius_pj_1/RoadMap.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "3d003a65f69f91c6",
   "lastOpenFiles": [
+    "3-2/Computer Network.md",
     "image_file/Pasted image 20240316214648.png",
     "image_file/Pasted image 20240316214641.png",
     "image_file/Pasted image 20240316213945.png",
@@ -183,12 +184,10 @@
     "image_file/Pasted image 20240316213044.png",
     "image_file/Pasted image 20240316213039.png",
     "image_file/Pasted image 20240316211733.png",
-    "image_file/Pasted image 20240316200103.png",
     "3-2/Database.md",
     "Flius_pj_1/HTML.md",
     "Flius_pj_1/JavaScript.md",
     "Flius_pj_1/Obsidion.md",
-    "3-2/Computer Network.md",
     "Flius_pj_1/GitHub.md",
     "3-2/Operating system.md",
     "3-2/Database",
