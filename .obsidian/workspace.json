@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "36d94d36ea4b8b85",
+    "id": "1ec04cdf75b016fa",
     "type": "split",
     "children": [
       {
-        "id": "bf17ceab59ed0228",
+        "id": "0f8a3a1e9d3ee385",
         "type": "tabs",
         "children": [
           {
-            "id": "a0cdb18acf2d59fd",
+            "id": "786094de3dd8d131",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스 서버 만들기.md",
+                "file": "OS Quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "973631857872bb98",
+    "id": "92946832fb4633b7",
     "type": "split",
     "children": [
       {
-        "id": "f89cc8abdcbd6fd2",
+        "id": "57e36ac41023619f",
         "type": "tabs",
         "children": [
           {
-            "id": "c3391953c658b5dc",
+            "id": "12560079856300f7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "f92760acebd54e47",
+            "id": "6b67f4dea448bc1a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "9e45d7c84680fa07",
+            "id": "fa7c28edaf912424",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "b5c8d7151b9a4f26",
+    "id": "59ae4ac72fc38f13",
     "type": "split",
     "children": [
       {
-        "id": "3f67cec827579776",
+        "id": "07d77ca66fa5f9c9",
         "type": "tabs",
         "children": [
           {
-            "id": "b4cb3ef19b0064f6",
+            "id": "7ba33fac7ffd202f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스 서버 만들기.md",
+                "file": "OS Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "891bfa4cb4d74398",
+            "id": "2af230d26508fe94",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스 서버 만들기.md",
+                "file": "OS Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7827cbc73a49692e",
+            "id": "a0bcb117e8995f6c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "0468ab8640d4dcc9",
+            "id": "05efc3e2a72b7f22",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스 서버 만들기.md"
+                "file": "OS Quiz.md"
               }
             }
           }
@@ -146,10 +146,8 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c3391953c658b5dc",
+  "active": "786094de3dd8d131",
   "lastOpenFiles": [
-    "2024-03-18.md",
-    "2024-03-13.md",
-    "리눅스 서버 만들기.md"
+    "OS Quiz.md"
   ]
 }
