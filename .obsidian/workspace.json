@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "b862637c8b11cfae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "63cc7aa7c70db38d",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스 서버 만들기.md",
+                "file": "2024-03-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스 서버 만들기.md",
+                "file": "2024-03-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스 서버 만들기.md"
+                "file": "2024-03-21.md"
               }
             }
           }
@@ -195,19 +207,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "af9fbe1f014e3302",
+  "active": "16ee04031c99435a",
   "lastOpenFiles": [
-    "Flius_pj_1/RoadMap.md",
     "리눅스 서버 만들기.md",
-    "Flius_pj_1/RoadMap Arr.md",
+    "Flius_pj_1/JavaScript.md",
     "Flius_pj_1/Java.md",
+    "2024-03-21.md",
+    "Flius_pj_1/RoadMap.md",
+    "Flius_pj_1/RoadMap Arr.md",
     "3-2/Operating system.md",
     "3-2/Database.md",
     "3-2/Computer Network.md",
     "Flius_pj_1/HTML.md",
     "Flius_pj_1/GitHub.md",
     "Flius_pj_1/Flius_pj_1.md",
-    "Flius_pj_1/JavaScript.md",
     "Flius_pj_1/Obsidion.md",
     "Flius_pj_1/OS.md",
     "2024-03-18.md",
