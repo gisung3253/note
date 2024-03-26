@@ -229,3 +229,142 @@ broadcast 및 "half-duplex"  (sender to receiver)
 - geosynchronous versus lowearth-orbit
 
 #### ==*Network core: packet/circuit switching, internet structure==*
+
+![[Pasted image 20240317134205.png]]
+
+==The network core==
+
+상호 연결된 라우터의 mesh
+packet-switching : 호스트는 응용 프로그램 계층 메시지를 패킷으로 바꾼다
+- 한 라우터에서 다음 라우터로 패킷을 전송하고, 소스에서 대상으로 경로의 링크를 통해 패킷을 전송한다
+- full link 용량으로 전송되는 각 패킷
+
+==Packet-switching: store-and-forward (패킷 교환 : 저장 및 전달)==
+
+전송 지연 : L/R초 단위로 L-bit 패킷을 링크로 전송한다
+저장 및 전달 : 전체 패킷이 라우터에 도착해야 다음 링크에서 전송된다
+종단 지연 : 2L/R(위), 전파 지연 제로 가정 (지연 시 추가)
+
+![[Pasted image 20240317134644.png]]
+
+One-hop 수치 예제
+- L = 10 Kbits
+- R = 100 Mbps
+- one-hop 전송 지연 = 0.1 msec
+
+==Packet-switching: queueing delay, loss (대기열 지연, 손실)==
+
+![[Pasted image 20240317135111.png]]
+Packet queuing and loss : 링크에 도달하는 속도(bps)가 일정 시간 동안 링크의 전송 속도(bps)를 초과 하는 경우
+- 패킷은 출력 링크에서 전송되기를 기다리는 대기열이 된다
+- 라우터의 메모리(buffer)가 가득 차면 패킷이 떨어지거나 손실될 수 있다
+
+==Two key network-core functions (2개의 핵심 네트워크 코어 기능)==
+
+Forwarding :
+- local action : 라이터의 입력 링크에서 적절한 라우터 출력 링크로 도착 패킷 이동
+Routing :
+- global action : 패킷이 전송하는 소스 대상 경로 결정
+- routing algorithms
+
+![[Pasted image 20240317135409.png]]
+
+==Alternative to packet switching: circuit switching (패킷 스위칭의 대안 : 회로 스위칭)==
+
+![[Pasted image 20240317140211.png]]
+
+최종 리소스 할당, 소스와 대상 사이의 "call"을 위해 예약
+- 그림에서 각 링크에는 4개의 회로가 있다
+	- call은 상위 링크에 두 번째 회로가 있고 오른쪽 링크에 첫 번째 회로가 있다
+- 전용 리소스 : 공유 없음
+	- 회로와 같은 (guaranteed) 성능
+- 호출에 의해 사용되지 않는 경우 circuit segment 유후 (공유 없음)
+- 전통적인 전화망에서 일반적으로 사용됨
+
+
+==Circuit switching: FDM and TDM Frequency Division Multiplexing (FDM)==
+==(회로 스위칭 : FDM 및 TDM 주파수분할다중화)==
+
+![[Pasted image 20240317140227.png]]
+
+주파수 대역으로 분할된 광학, 전자기 주파수 (narrow)
+- 각 call 은 고유 대역을 할당하고, 해당 좁은 대역의 최대 속도로 전송할 수 있다. TDM (Time Division Multiplexing)
+- 슬롯으로 나누어진 시간
+- 각 call 에 할당된 주기적 슬롯은 wider 주파수 대역의 최대 속도로 전송할 수 있지만 타임 슬롯 동안만 전송 할 수 있다
+
+==Packet switching versus circuit switching (패킷 스위칭 vs 회로 스위칭==
+
+1. 패킷 교환을 통해 더 많은 사용자가 네트워크를 사용할 수 있다 !! 
+```
+ex)
+1 Gb/s link
+각 사용자 :
+- "active" 인 경우 100Mb/s
+- 활동적인 시간의 10%
+```
+
+- circuit-switching : 10 users
+- packet switching : 35 users 가 있는 경우, 10 개 이상의 active가 동시에 .0004 보다 작다
+
+Q : 어떻게 0.0004의 값을 얻었나?
+Q : 35 명 이상의 사용자가 발생하면 어떻게 되는가?
+
+2. Is packet switching a “slam dunk winner”?
+"bursty" 데이터에 적합 - 전송할 데이터가 있는 경우도 있지만 그렇지 않은 경우도 있다
+- 리소스 공유
+- 단순, call 설정 없음
+과도한 혼잡 가능 : 버퍼 오버플로로 인한 패킷 지연 및 손설
+- 신뢰성 있는 데이터 전송, 혼잡 제어에 필요한 프로토콜
+Q : circuit와 같은 동작을 제공하는 방법은 무엇인가?
+- 전통적으로 오디오/비디오 애플리케이션에 사용되는 대역폭 보장
+
+Q : 예약된 자원(circuit switching) vs 주문형 할당(packet switching)의 인적 유사성은 ?
+
+==Internet structure: a “network of networks" (인터넷 구조 : 네트워크)==
+
+- 호스트가 ISPs(Internet Service Providers)에 액세스하여 인터넷에 연결한다
+	-주거용, 기업용 (기업, 대학, 상업용) ISPs
+- 액세스 ISPs를 상호 연결해야 한다
+	-임의의 두 호스트가 서로 패킷을 보낼 수 있다
+- 결과적인 network of networks 는 매우 복잡하다
+	-진화는 경제와 국가 정책에 의해 주도되었다
+- 현재 인터넷 구조를 설명하기 위해 단계적으로 접근해보겠다
+
+Q : 수백만 개의 액세스 ISPs 를 고려할 때 어떻게 연결할까?
+
+![[Pasted image 20240317143401.png]]
+
+답 : 각 액세스 ISP 연결
+서로 직접적으로 확정되지 않는다 : O(N2) 연결
+
+![[Pasted image 20240317143514.png]]
+
+옵션 : 각 액세스 ISP를 하나의 글로벌 트랜짓 ISP에 연결하시겠습니까?
+customer 그리고 provider ISPs는 경제적 합의를 한다
+
+![[Pasted image 20240317143634.png]]
+
+그러나 하나의 글로벌 ISP 가 실행 가능한 비즈니스라면, 연결되기를 원하는 경쟁자들이 있을 것이다
+
+![[Pasted image 20240317144040.png]]
+
+그리고 ISP에 액세스 네트워크를 연결하기 위해 지역 네트워크가 발생할 수 있다
+
+![[Pasted image 20240317144052.png]]
+
+... 컨텐츠 제공자 네트워크 (ex : Google, Microsofr, Akamai)는 최종 사용자 서비스, 컨텐츠를 제공하기 위해 자체 네트워크를 실행할 수 있다
+
+![[Pasted image 20240317144103.png]]
+
+"중심"에서 잘 연결된 소수의 대규모 네트워크
+- "Tier-1" 상용 ISP (ex : Level3, Sprint, AT&T, NTT), 국내 및 국제 커버리지
+- 컨텐츠 제공자 네트워크 (ex : Google, Facebook) : 데이터 센터를 인터넷에 연결하는 사설 네트워크로, 종종 tier-1(계층 1), 지역 ISPs를 우회한다
+
+![[Pasted image 20240317144119.png]]
+
+==Tier-1 ISP Network map: Sprint== 
+
+![[Pasted image 20240317144212.png]]
+
+#### ==*Performance: loss, delay, throughput*==
+
