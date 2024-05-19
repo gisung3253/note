@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS Quiz.md",
+                "file": "3-2/Operating system.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS Quiz.md",
+                "file": "3-2/Operating system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS Quiz.md",
+                "file": "3-2/Operating system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS Quiz.md"
+                "file": "3-2/Operating system.md"
               }
             }
           }
@@ -148,6 +148,17 @@
   },
   "active": "786094de3dd8d131",
   "lastOpenFiles": [
-    "OS Quiz.md"
+    "Flius/CSS.md",
+    "Flius/Architecture.md",
+    "Flius/Flius_pj_1.md",
+    "3-2/Database.md",
+    "2024-03-13.md",
+    "2024-03-18.md",
+    "2024-03-21.md",
+    "리눅스 서버 만들기.md",
+    "OS Quiz.md",
+    "3-2/Computer Network.md",
+    "Flius/GitHub.md",
+    "Flius/Obsidion.md"
   ]
 }

@@ -241,3 +241,71 @@ a petabyte, or PB, is 1,024'5 bytes
 #### *==Kernel Data Structures==*
 #### *==Computing Environments==*
 #### *==Open-Source Operating Systems==*
+
+## Chapter 2: Operating-System Structures
+
+## Chapter 3: Processes
+
+## Chapter 4: Threads & Concurrency
+
+## Chapter 5: CPU Scheduling
+
+## Chapter 6: Synchronization Tools
+
+**critical section 문제를 해결하는 법 3가지**
+1. Mutual Exclusion - critical section에는 하나의 프로세스만 진입
+2. Progress - 코드가 중단되지 않는것
+3. Bounded Waiting
+
+**동기화 하드웨어**
+- 동기화를 위해선 atomic한 연산이 수행되어야 하는데 그것은 하드웨어가 지원함(cpu)
+
+**test_and_set()은 bounded-waiting을 만족하진 못함**
+- 왼쪽 프로세스만 계속 돌 수도 있음
+
+**cmpare_and_swap()도 bounded-waiting을 만족하지 못함**
+
+**bounded-waiting Mutual Exclusion with test_and_set**
+- n은 프로세스의 개수
+- j = (i + 1)%n -> 프로세스가 만약 5개고 i가 5이면 다음은 1로 만들어줌
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Chapter 7: Synchronization Examples
+
+
+
+
+
+
+**classical problems of synchronization**
+- bounded-buffer problem
+- readers and writers problem
+- dining-philosophers problem
